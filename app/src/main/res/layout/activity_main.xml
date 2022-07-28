@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/non_photo_blue"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
 
     <Button
         android:id="@+id/AlertBtn"
@@ -23,12 +23,7 @@
         tools:layout_editor_absoluteX="281dp"
         tools:layout_editor_absoluteY="441dp" />
 
-    <ImageButton
-        android:id="@+id/imageButton2"
-        android:layout_width="234dp"
-        android:layout_height="288dp"
-        android:background="@drawable/roundedshape"
-        app:srcCompat="@drawable/alert_button"
-        tools:layout_editor_absoluteX="122dp"
-        tools:layout_editor_absoluteY="290dp" />
-</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+    />
