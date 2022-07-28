@@ -7,6 +7,21 @@
     android:background="@color/non_photo_blue"
     tools:context=".MainActivity">
 
+    <Button
+        android:id="@+id/AlertBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="alerts"
+        tools:layout_editor_absoluteX="158dp"
+        tools:layout_editor_absoluteY="643dp" />
+
+    <Button
+        android:id="@+id/LitersBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="usage history"
+        tools:layout_editor_absoluteX="281dp"
+        tools:layout_editor_absoluteY="441dp" />
 
     <ImageButton
         android:id="@+id/imageButton2"
