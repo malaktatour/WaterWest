@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/non_photo_blue"
-    tools:context=".MainActivity"
+    tools:context=".MainActivity">
 
     <Button
         android:id="@+id/AlertBtn"
@@ -24,6 +24,4 @@
         tools:layout_editor_absoluteY="441dp" />
 
 
-
-
-    />
+</androidx.constraintlayout.widget.ConstraintLayout>
